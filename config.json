@@ -1,0 +1,8 @@
+{
+    "token": "BPT_TOKEN",
+    "log_channel_id": "log_channel_id",
+    "alert_role_id": "alert_role_id",
+    "scammer_role_id": "scammer_role_id",
+    "dwc_role_id": "dwc_role_id"
+  }
+  
